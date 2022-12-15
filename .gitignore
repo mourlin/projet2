@@ -1,0 +1,5 @@
+# regles pour ignorer des fichiers ou repertoires
+*.log
+.*
+!.gitignore
+tmp/
